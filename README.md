@@ -9,7 +9,7 @@
 
 # Overview
 
-Spotify Offline (`spotify-offline`) is a command line tool that allows one to download Spotify playlists in MP3 format. It is built to serve as a free and open-sourced substitute to Spotify's priced offline streaming.
+Spotify Offline (`spotifyoffline`) is a command line tool that allows one to download Spotify playlists in MP3 format. It is built to serve as a free and open-sourced substitute to Spotify's priced offline streaming.
 
 # Examples
 
