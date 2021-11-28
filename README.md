@@ -2,9 +2,18 @@
     <a href = "https://opensource.org/licenses/MIT">
         <img alt = "License" src = "https://img.shields.io/badge/License-AGPLv3-green.svg">
     </a>
+    <a href = "https://pypi.org/project/spotifyoffline/">
+        <img alt = "Version" src = "https://img.shields.io/pypi/v/spotifyoffline.svg">
+    </a>
+    <a href = "https://pypi.org/project/spotifyoffline/">
+        <img alt = "Downloads" src = "https://img.shields.io/pypi/dm/spotifyoffline.svg">
+    </a>
+    <a href = "https://pypi.org/project/spotifyoffline/">
+        <img alt = "Supported Versions" src = "https://img.shields.io/pypi/pyversions/spotifyoffline.svg">
+    </a>
 </p>
 
-<h1 align = "center">Spotify Offline <code>v0.0.1</code></h1>
+<h1 align = "center">Spotify Offline <code>v0.0.2</code></h1>
 <h3 align = "center">listen to your favorite spotify songs, offline</h3>
 
 # Overview

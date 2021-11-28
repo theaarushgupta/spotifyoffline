@@ -12,11 +12,11 @@ with open(requirements) as requirements:
 
 setup(
     name = "spotifyoffline",
-    version = "v0.0.1",
+    version = "v0.0.2",
     description = "listen to your favorite spotify songs, offline",
     long_description = readme,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/0x44RU5H/spotifyoffline",
+    url = "https://github.com/theaarushgupta/spotifyoffline",
     author = "Aarush Gupta",
     author_email = "aarush@theaarushgupta.com",
     license = "AGPLv3+",
