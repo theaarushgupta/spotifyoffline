@@ -1,0 +1,4 @@
+pyyaml
+spotipy
+pytube
+moviepy
